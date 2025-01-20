@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"1fb825d8d70ef877","type":"text","text":"### what do I want out of the trip?","x":-560,"y":-580,"width":211,"height":97,"color":"5"},
+		{"id":"3f7ae79069a78680","type":"text","text":"#### Learn about Computer Science in a different way then I usually do","x":-349,"y":-180,"width":268,"height":139,"color":"3"},
+		{"id":"5f1da6623e132ec0","type":"text","text":"#### I want to experience something new","x":-530,"y":-270,"width":250,"height":69,"color":"3"},
+		{"id":"4e3154923dd619d1","type":"text","text":"#### Want to experience a different country's nightlife","x":-685,"y":-180,"width":250,"height":104,"color":"2"},
+		{"id":"12b3a5620db0569c","type":"text","text":"#### I want to go to a country where I've never been before","x":-835,"y":-322,"width":250,"height":104,"color":"4"},
+		{"id":"beb213f6ef46629f","type":"text","text":"#### Enjoy a different country","x":-960,"y":-408,"width":210,"height":69,"color":"4"},
+		{"id":"bbbd24acfef3d887","type":"text","text":"#### Experience new foods","x":-215,"y":-339,"width":161,"height":69,"color":"4"},
+		{"id":"4b390a9c3916134d","type":"text","text":"# McElwee Award","x":-134,"y":-1060,"width":193,"height":84,"color":"1"},
+		{"id":"c08d12ed6e11c53c","x":-3,"y":-561,"width":250,"height":60,"color":"6","type":"text","text":"#### Max from School"},
+		{"id":"afe8318f9abf184f","x":457,"y":-561,"width":236,"height":139,"color":"6","type":"text","text":"#### Max potential from school + parental allowance (to pay for food etc)"},
+		{"id":"b9e5c0aa78213ca2","x":297,"y":-779,"width":130,"height":60,"color":"6","type":"text","text":"### Budget"},
+		{"id":"edcbf3e5eec35d70","x":59,"y":-422,"width":128,"height":60,"color":"5","type":"text","text":"## £1600"},
+		{"id":"994a4fab07865a2c","x":504,"y":-347,"width":145,"height":60,"color":"4","type":"text","text":"## ±£1900"},
+		{"id":"00a7939bbf775e71","x":-884,"y":-1260,"width":98,"height":60,"color":"6","type":"text","text":"## Key"},
+		{"id":"bc7346c80dc8d40e","x":-925,"y":-1140,"width":180,"height":60,"color":"1","type":"text","text":"#### Not Bothered"},
+		{"id":"7e4693c76b3ad7dd","type":"text","text":"#### Wouldn't mind","x":-931,"y":-1018,"width":192,"height":60,"color":"2"},
+		{"id":"5b6007fe138002c4","type":"text","text":"#### Like","x":-881,"y":-900,"width":92,"height":60,"color":"3"},
+		{"id":"109c78f15b800bda","type":"text","text":"#### Must/Required","x":-932,"y":-779,"width":195,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"512fb80057c4bba4","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"12b3a5620db0569c","toSide":"top","color":"4"},
+		{"id":"e3e343401f3d0193","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"5f1da6623e132ec0","toSide":"top","color":"3"},
+		{"id":"3f05b543968e5a57","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"bbbd24acfef3d887","toSide":"top","color":"4"},
+		{"id":"4002649bb9749b86","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"4e3154923dd619d1","toSide":"top","color":"2"},
+		{"id":"f62eda8e2857dce7","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"3f7ae79069a78680","toSide":"top","color":"3"},
+		{"id":"2caf5ddc31dd31eb","fromNode":"4b390a9c3916134d","fromSide":"bottom","toNode":"1fb825d8d70ef877","toSide":"top","color":"5"},
+		{"id":"2ab61c11f7890f6f","fromNode":"1fb825d8d70ef877","fromSide":"bottom","toNode":"beb213f6ef46629f","toSide":"top","color":"4"},
+		{"id":"f95da771ae541518","fromNode":"b9e5c0aa78213ca2","fromSide":"bottom","toNode":"c08d12ed6e11c53c","toSide":"top","color":"6"},
+		{"id":"06d113c428a4213e","fromNode":"b9e5c0aa78213ca2","fromSide":"bottom","toNode":"afe8318f9abf184f","toSide":"top","color":"6"},
+		{"id":"e0ce4ba72e5f8931","fromNode":"afe8318f9abf184f","fromSide":"bottom","toNode":"994a4fab07865a2c","toSide":"top","color":"4"},
+		{"id":"32b6f7efa5ede318","fromNode":"c08d12ed6e11c53c","fromSide":"bottom","toNode":"edcbf3e5eec35d70","toSide":"top","color":"5"},
+		{"id":"31e82944f69b29d5","fromNode":"4b390a9c3916134d","fromSide":"bottom","toNode":"b9e5c0aa78213ca2","toSide":"top","color":"6"},
+		{"id":"4798038a42440731","fromNode":"00a7939bbf775e71","fromSide":"bottom","toNode":"bc7346c80dc8d40e","toSide":"top","color":"6"},
+		{"id":"91dde300f5f0c37f","fromNode":"bc7346c80dc8d40e","fromSide":"bottom","toNode":"7e4693c76b3ad7dd","toSide":"top","color":"1"},
+		{"id":"ec0d3e7a18115731","fromNode":"7e4693c76b3ad7dd","fromSide":"bottom","toNode":"5b6007fe138002c4","toSide":"top","color":"2"},
+		{"id":"16bdfa0ca1d5e642","fromNode":"5b6007fe138002c4","fromSide":"bottom","toNode":"109c78f15b800bda","toSide":"top","color":"3"}
+	]
+}
