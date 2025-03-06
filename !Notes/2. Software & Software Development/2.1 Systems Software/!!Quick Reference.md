@@ -12,13 +12,13 @@ Key Functions of Operating Systems
 
 Key Types of Operating Systems
 
-|Type|Description|
-|---|---|
-|Distributed Operating Systems|Run on multiple machines as a single unit for efficient task distribution.|
-|Embedded Operating Systems|Designed for specific tasks in devices not primarily computers.|
-|Multi-tasking Operating Systems|Allow multiple tasks to run concurrently on a single processor.|
-|Multi-user Operating Systems|Support multiple users accessing resources concurrently.|
-|Real-Time Operating Systems|Ensure tasks are processed within specific timeframes.|
+| Type                            | Description                                                                |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| Distributed Operating Systems   | Run on multiple machines as a single unit for efficient task distribution. |
+| Embedded Operating Systems      | Designed for specific tasks in devices not primarily computers.            |
+| Multi-tasking Operating Systems | Allow multiple tasks to run concurrently on a single processor.            |
+| Multi-user Operating Systems    | Support multiple users accessing resources concurrently.                   |
+| Real-Time Operating Systems     | Ensure tasks are processed within specific timeframes.                     |
 
 Key Memory Management Techniques
 
